@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+}
+.isbn{
+    color: #7c7c7c;
+}
